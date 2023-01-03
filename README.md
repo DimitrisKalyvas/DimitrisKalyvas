@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimitrisKalyvas
 - 👀 I’m a level designer with experience in game design and systems design.
-- 🌱 I'm always learning new things, but I’m currently learning game and level Design, which also specifically includes Lua.
+- 🌱 I'm always learning new things, currently focusing on Lua.
 - 💞️ I’m not looking to collaborate on projects right now, as I have my hands full working for Forgotten Empires & as project lead for two other projects on my spare time.
 - 📫 My email is dimitrismarioskalyvas@gmail.com
 
